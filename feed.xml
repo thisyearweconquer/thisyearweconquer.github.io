@@ -21,6 +21,7 @@
 	<itunes:image href="https://thisyearweconquer.github.io/logo.jpg"/>
 	<itunes:category text="Education">
 		<itunes:category text="Self-Improvement"/>
+	</itunes:category>
 	<itunes:category text="Health &amp; Fitness">
 		<itunes:category text="Mental Health"/>
 	</itunes:category>
